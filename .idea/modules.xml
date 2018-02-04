@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDK_WebServiceServer/JDK_WebServiceServer.iml" filepath="$PROJECT_DIR$/JDK_WebServiceServer/JDK_WebServiceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService_Case.iml" filepath="$PROJECT_DIR$/WebService_Case.iml" />
+    </modules>
+  </component>
+</project>
